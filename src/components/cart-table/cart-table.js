@@ -54,7 +54,7 @@ class CartTable extends Component  {
                         })
                     }
                     <div className='cart__title'>
-                            <Link className='complete__link' to="/order" onClick={() => this.completeOrder(items)} > Complete order?</Link>
+                            <Link className='complete__link' to="/order" onClick={() => this.completeOrder(items)} > total price:{this.props.priceCount} Complete order?</Link>
                     </div>
                 </div>
             </>
@@ -66,7 +66,7 @@ const mapStateToProps = ({items, priceCount, itemsCount, countArr}) => {
 
     return {
         items: items,
-        priceCount,
+        priceCount: items.reduce((price, item) => price + item.price, 0),
         itemsCount,
         countArr: countArr
     }    

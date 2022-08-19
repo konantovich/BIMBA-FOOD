@@ -2,11 +2,11 @@ import React from 'react';
 import CartTable from '../cart-table';
 
 
-const CartPage = () => {
+const CartPage = ({priceCount}) => {
 
     return (
         <div className="cart"> 
-            <CartTable/>
+            <CartTable priceCount={priceCount}/>
         </div>
     )
 }
