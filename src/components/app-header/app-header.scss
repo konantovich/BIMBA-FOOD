@@ -1,0 +1,31 @@
+.header {
+    background-color: rgba(100,0,0, .5);
+    height: 120px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 0 50px;
+    &__link {
+        display: flex;
+        margin-right: 40px;
+        font-size: 20px;
+        color: rgb(249, 194, 41);
+        text-decoration: none;
+    }
+    &__cart {
+        width: 20px;
+        margin-right: 10px;
+    }
+}
+
+.header__cart {
+    &__link {
+        color: rgb(249, 194, 41);
+    }
+}
+
+.header__link {
+    font-size: 30px;
+}
+
+

@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "title": "Ramen soup",
+      "price": 14,
+      "url": "https://wowfood.club/uploads/mini/big/f9/ramen_s_kuricej.jpg",
+      "category": "soup",
+      "id": 1,
+      "count": 0
+    },
+    {
+      "title": "Kyiv cutlet",
+      "price": 15,
+      "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+      "category": "meat",
+      "id": 2,
+      "count": 0
+    },
+    {
+      "title": "O'baby",
+      "price": 9,
+      "url": "https://static.1000.menu/res/640/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964692_0_max.jpg",
+      "category": "soup",
+      "id": 3,
+      "count": 0
+    },
+    {
+      "title": "Soy kebab with sand",
+      "price": 8,
+      "url": "https://static.1000.menu/res/640/img/content/9633/soevji-shashljk_1400841354_2_max.JPG",
+      "category": "vegan",
+      "id": 4,
+      "count": 0
+    },
+    {
+      "title": "Salo",
+      "price": 10,
+      "url": "https://topwar.ru/uploads/posts/2021-11/thumbs/1638119555_12.jpg",
+      "category": "vegan",
+      "id": 5,
+      "count": 0
+    },
+    {
+      "title": "Buckwheat",
+      "price": 50,
+      "url": "https://www.glutenfreealchemist.com/wp-content/uploads/2021/02/5-buckwheat-groats-cooked-FI-scaled.jpg",
+      "category": "garnish",
+      "id": 6,
+      "count": 0
+    }
+  ]
+}

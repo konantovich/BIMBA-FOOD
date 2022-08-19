@@ -1,0 +1,599 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Alex",
+      "id": 2
+    },
+    {
+      "name": "Alex",
+      "id": 3
+    },
+    [
+      {
+        "title": "Pizza Margherita",
+        "price": 10,
+        "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+        "id": 2
+      },
+      {
+        "title": "Pizza Napoletana",
+        "price": 13,
+        "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+        "id": 3
+      }
+    ],
+    [],
+    [
+      {
+        "title": "Pizza Margherita",
+        "price": 10,
+        "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+        "id": 2
+      },
+      {
+        "title": "Pizza Napoletana",
+        "price": 13,
+        "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+        "id": 3
+      }
+    ],
+    [
+      {
+        "title": "Pizza Margherita",
+        "price": 10,
+        "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+        "id": 2
+      },
+      {
+        "title": "Pizza Napoletana",
+        "price": 13,
+        "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+        "id": 3
+      },
+      {
+        "title": "Cowboy Steak",
+        "price": 25,
+        "url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+        "id": 5
+      },
+      {
+        "title": "Cowboy Steak",
+        "price": 25,
+        "url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+        "id": 6
+      }
+    ],
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        }
+      ],
+      "id": 7
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        }
+      ],
+      "id": 8
+    },
+    {
+      "username": [],
+      "id": 9
+    },
+    {
+      "username": [],
+      "id": 10
+    },
+    {
+      "username": [],
+      "id": 11
+    },
+    {
+      "username": [],
+      "id": 12
+    },
+    {
+      "username": [],
+      "id": 13
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        }
+      ],
+      "id": 14
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        }
+      ],
+      "id": 15
+    },
+    {
+      "username": [],
+      "id": 16
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        },
+        {
+          "title": "Cesar salad",
+          "price": 12,
+          "url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+          "id": 1
+        }
+      ],
+      "id": 17
+    },
+    {
+      "username": [],
+      "id": 18
+    },
+    {
+      "username": [],
+      "id": 19
+    },
+    {
+      "username": [],
+      "id": 20
+    },
+    {
+      "username": [],
+      "id": 21
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        }
+      ],
+      "id": 22
+    },
+    {
+      "username": [],
+      "id": 23
+    },
+    {
+      "username": [],
+      "id": 24
+    },
+    {
+      "username": [],
+      "id": 25
+    },
+    {
+      "username": [],
+      "id": 26
+    },
+    {
+      "username": [],
+      "id": 27
+    },
+    {
+      "username": [],
+      "id": 28
+    },
+    {
+      "username": [],
+      "id": 29
+    },
+    {
+      "username": [],
+      "id": 30
+    },
+    {
+      "username": [],
+      "id": 31
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        }
+      ],
+      "id": 32
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 33
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 34
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 35
+    },
+    {
+      "username": [
+        {
+          "title": "Cowboy Steak",
+          "price": 25,
+          "url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+          "id": 5
+        },
+        {
+          "title": "Cowboy Steak",
+          "price": 25,
+          "url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+          "id": 5
+        }
+      ],
+      "id": 36
+    },
+    {
+      "username": [
+        {
+          "title": "Cesar salad",
+          "price": 12,
+          "url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+          "id": 1
+        },
+        {
+          "title": "Cesar salad",
+          "price": 12,
+          "url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+          "id": 1
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 37
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 38
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        },
+        {
+          "title": "Pizza Napoletana",
+          "price": 13,
+          "url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+          "id": 3
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 39
+    },
+    {
+      "username": [
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        },
+        {
+          "title": "Pizza Margherita",
+          "price": 10,
+          "url": "https://st2.depositphotos.com/3833507/8720/i/950/depositphotos_87208454-stock-photo-delicious-pizza-margherita.jpg",
+          "id": 2
+        }
+      ],
+      "id": 40
+    },
+    {
+      "username": [
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        }
+      ],
+      "id": 41
+    },
+    {
+      "username": [
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        }
+      ],
+      "id": 42
+    },
+    {
+      "username": [
+        {
+          "title": "O'baby",
+          "price": 9,
+          "url": "https://static.1000.menu/res/640/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964692_0_max.jpg",
+          "id": 3
+        }
+      ],
+      "id": 43
+    },
+    {
+      "username": [
+        {
+          "title": "O'baby",
+          "price": 9,
+          "url": "https://static.1000.menu/res/640/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964692_0_max.jpg",
+          "id": 3
+        },
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        }
+      ],
+      "id": 44
+    },
+    {
+      "username": [
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        },
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        },
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        }
+      ],
+      "id": 45
+    },
+    {
+      "username": [
+        {
+          "title": "O'baby",
+          "price": 9,
+          "url": "https://static.1000.menu/res/640/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964692_0_max.jpg",
+          "id": 3
+        },
+        {
+          "title": "O'baby",
+          "price": 9,
+          "url": "https://static.1000.menu/res/640/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964692_0_max.jpg",
+          "id": 3
+        }
+      ],
+      "id": 46
+    },
+    {
+      "username": [
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        },
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        }
+      ],
+      "id": 47
+    },
+    {
+      "username": [
+        {
+          "title": "Kyiv cutlet",
+          "price": 15,
+          "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+          "id": 2
+        }
+      ],
+      "id": 48
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "menu": [
+    {
+      "title": "Ramen soup",
+      "price": 14,
+      "url": "https://wowfood.club/uploads/mini/big/f9/ramen_s_kuricej.jpg",
+      "category": "soup",
+      "id": 1,
+      "count": 0
+    },
+    {
+      "title": "Kyiv cutlet",
+      "price": 15,
+      "url": "https://www.recept.ua/files/uploads/rec_img/kotleti-po-kievski-s-sirom-i.jpg",
+      "category": "meat",
+      "id": 2,
+      "count": 0
+    },
+    {
+      "title": "O'baby",
+      "price": 9,
+      "url": "https://static.1000.menu/res/640/img/content-v2/52/b9/9723/okroshka-na-vode-s-uksusom-i-maionezom_1652964692_0_max.jpg",
+      "category": "soup",
+      "id": 3,
+      "count": 0
+    },
+    {
+      "title": "Soy kebab with sand",
+      "price": 8,
+      "url": "https://static.1000.menu/res/640/img/content/9633/soevji-shashljk_1400841354_2_max.JPG",
+      "category": "vegan",
+      "id": 4,
+      "count": 0
+    },
+    {
+      "title": "Salo",
+      "price": 10,
+      "url": "https://topwar.ru/uploads/posts/2021-11/thumbs/1638119555_12.jpg",
+      "category": "vegan",
+      "id": 5,
+      "count": 0
+    },
+    {
+      "title": "Buckwheat",
+      "price": 50,
+      "url": "https://foodinformer.ru/wp-content/uploads/2021/05/b7f594cb.jpg",
+      "category": "garnish",
+      "id": 6,
+      "count": 0
+    }
+  ]
+}
