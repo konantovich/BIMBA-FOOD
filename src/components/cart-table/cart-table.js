@@ -53,8 +53,9 @@ class CartTable extends Component  {
                             )
                         })
                     }
-                    <div className='cart__title'>
-                            <Link className='complete__link' to="/order" onClick={() => this.completeOrder(items)} > total price:{this.props.priceCount} Complete order?</Link>
+                    <div className='cart__title'>  total price: {this.props.priceCount}
+                        <br></br>
+                            <Link className='complete__link' to="/order" onClick={() => this.completeOrder(items)} > Complete</Link>
                     </div>
                 </div>
             </>
